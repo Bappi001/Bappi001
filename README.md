@@ -1,8 +1,7 @@
-[![MasterHead](https://www.pinterest.com/pin/724516658832060260/)](https://Bappi001.io)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Antony Kimathi</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
-(img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/306174474682808927/")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappi001&label=Profile%20views&color=0e75b6&style=flat" alt="bappi001" /> </p>
 
