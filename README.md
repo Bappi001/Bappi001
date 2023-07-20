@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antony Kimathi</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.myportfolio.com%2F2fcfcb103788251450a8304378dffded%2Fa62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif%3Fh%3De8c7ce55b326319eaca316cc1e74518f&tbnid=fxK5tONPokeGrM&vet=12ahUKEwi3pKGGip2AAxXhpkwKHQQeAxIQMyggegUIARD6Ag..i&imgrefurl=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&docid=Frj2byXTE_rX_M&w=1000&h=756&q=animated%20coding%20gif&ved=2ahUKEwi3pKGGip2AAxXhpkwKHQQeAxIQMyggegUIARD6Ag">
+
+<img align="right" alt="Coding" width="400" src="https://carlyberry.me/portrait-animated-gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappi001&label=Profile%20views&color=0e75b6&style=flat" alt="bappi001" /> </p>
 
